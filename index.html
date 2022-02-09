@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workshop</title>
+    <link rel="stylesheet" href="style.css">
+     <!-- sweet alert -->
+     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11" defer></script>
+
+     <!-- jquery -->
+     <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+         integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous" defer></script>
+
+     <!-- jQuery Modal -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js" defer></script>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css"
+         defer />
+
+     <!-- mis scripts -->
+
+     <!-- <script src="script-local.js" defer></script> -->
+     <script src="script-local.js" defer></script>
+
+</head>
+
+<body>
+    <nav>
+        <h1>Carrito de compras</h1>
+        <div class="carrito-container">
+            <a href="#modal" rel="modal:open">
+                <img src="imgs/carrito.jpg" alt="CarritoIcono" width="100px" height="100px">
+            </a>
+        </div>
+    </nav>
+    <div class="container"></div>
+</body>
+<!-- modal-->
+<div id="modal" class="modal">
+    <h3>Productos del carrito</h3>
+    <table>
+        <tbody id="carrito">
+            <tr>
+                <td class="header">Nombre</td>
+                <td class="header">Precio</td>
+            </tr>
+        </tbody>
+    </table>
+    <a href="#" rel="modal:close"><button>Cerrar</button></a>
+</div>
+
+</html>

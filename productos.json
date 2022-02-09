@@ -1,0 +1,46 @@
+{
+"productos": [
+    {
+        "id":1,
+        "nombre": "Tortitas negras",
+        "precio":600,
+        "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d6045b1-8b37-4d4f-a389-f388ac084e36/d83evgy-a5453517-be02-455e-a513-be74e4afb77e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVkNjA0NWIxLThiMzctNGQ0Zi1hMzg5LWYzODhhYzA4NGUzNlwvZDgzZXZneS1hNTQ1MzUxNy1iZTAyLTQ1NWUtYTUxMy1iZTc0ZTRhZmI3N2UuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.p5RN9FaExKeWd9mh7Gob-lr0B0xT-ddKDEiPZgqW1hc"
+    },
+    {
+        "id":2,
+        "nombre": "Tortas fritas",
+        "precio":600,
+        "url": "https://noticiasnet1.cdn.net.ar/252/noticiasnet/images/01/14/11/1141162_40092c8f0d204a206c07202ab02d9d27ed519c02f134f2cdd836cba387b6a3c8/sm.webp"
+    },
+    {
+        "id":3,
+        "nombre": "Chipas",
+        "precio":300,
+        "url": "https://img-global.cpcdn.com/recipes/a5f74234af04cbe7/680x482cq70/chipa-foto-principal.jpg"
+    }, 
+    {
+        "id":4,
+        "nombre": "Bolitas de fraile",
+        "precio":400,
+        "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB11XWSf.img?h=0&w=600&m=6&q=60&u=t&o=f&l=f"
+    },
+    {
+        "id":5,
+        "nombre": "Cuernitos de grasa",
+        "precio": 300,
+        "url": "https://img-global.cpcdn.com/recipes/1efa3d10d21886f9/680x482cq70/cuernitos-foto-principal.jpg"
+    },
+    {
+        "id":6,
+        "nombre": "Copitos de dulce de leche",
+        "precio":500,
+        "url": "https://mateenmano.com/wp-content/uploads/sites/15/2020/10/Havannets-Chocolate.jpg"
+    }, 
+    {
+        "id":7,
+        "nombre": "Grisines",
+        "precio":200,
+        "url": "https://img-global.cpcdn.com/recipes/ffd5517809dd54ad/680x482cq70/grisines-faciles-y-economicos-foto-principal.jpg"
+    }
+]
+}
